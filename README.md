@@ -1,4 +1,4 @@
-<div><a><img height="100" width="100" src="IMG-20201206-WA0037.jpg" /></a></div>
+<div><a><img src="barner.jpg" /></a></div>
 
 <h2 align="center">Hi 👋, I'm Rebeca Martinez</h2>
 <h3 align="center">A developer in progress</h3>
